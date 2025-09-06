@@ -8,5 +8,5 @@
 <body <?php body_class(); ?>>
 <header>
     <h1><?php bloginfo('name'); ?></h1>
-    <p>hello</p>
+    <p>hello！！！</p>
 </header>

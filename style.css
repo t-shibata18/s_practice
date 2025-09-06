@@ -5,3 +5,7 @@ Author: shibata
 Version: 1.0
 Description: Git管理用の練習テーマ
 */
+body {
+    background-color: lightyellow;
+    color: darkblue;
+}
