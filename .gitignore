@@ -1,5 +1,0 @@
-# macOS の不要ファイル
-.DS_Store
-
-# Node.js のモジュール
-node_modules/
