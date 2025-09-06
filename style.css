@@ -8,6 +8,7 @@ h1 {
   text-align: center;
   font-size: 40px;
   display: flex;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=style.css.map */
