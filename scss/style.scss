@@ -1,0 +1,14 @@
+// scss/style.scss
+
+$bg-color: lightyellow;
+$text-color: darkblue;
+
+body {
+  background-color: $bg-color;
+  color: $text-color;
+}
+
+h1 {
+  color: crimson;
+  text-align: center;
+}

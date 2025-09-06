@@ -1,11 +1,11 @@
-/*
-Theme Name: S Practice Theme
-Theme URI: http://localhost:8889/wp-practice/
-Author: shibata
-Version: 1.0
-Description: Git管理用の練習テーマ
-*/
 body {
-    background-color: lightyellow;
-    color: darkblue;
+  background-color: lightyellow;
+  color: darkblue;
 }
+
+h1 {
+  color: crimson;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
